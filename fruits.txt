@@ -2,3 +2,5 @@ orange
 mango
 kiwi
 strawberry
+apple
+pear
